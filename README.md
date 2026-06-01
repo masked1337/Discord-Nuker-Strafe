@@ -27,5 +27,5 @@
 - Strafe v3 is comming soon with more futures.
  
 ## 📸〢 Preview
-![Image](https://cdn.discordapp.com/attachments/1262676536813813781/1347206139921567825/image.png?ex=67cafafd&is=67c9a97d&hm=7f2265199a33b6544547257801a9c86b059dcf5537f0c9627fddb31883becf02&)
+![Image](https://cdn.discordapp.com/attachments/1502655154334334997/1511046700733698129/image.png?ex=6a1f0767&is=6a1db5e7&hm=67ec3f564deca93d5b3dea9d16f9187b69f6b11111ba3d52a403c542b8378889&)
 
