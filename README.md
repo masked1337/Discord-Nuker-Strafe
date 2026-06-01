@@ -20,7 +20,7 @@
 - Download latest version from [releases](https://github.com/masked1337/Strafe/releases)
 - Extract all the content
 - Run Strafe.exe
-- If you have any problem [contact me.](https://discord.gg/EVHa4NXdE7)
+- If you have any problem [contact me.](https://discord.gg/exodichub)
 
 ## ⚠️〢 Usage
 - Strafe v3 is comming soon with more futures.
